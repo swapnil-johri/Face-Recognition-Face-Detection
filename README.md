@@ -1,0 +1,2 @@
+# Face-Recognition-Face-Detection
+The project is a Face Detection &amp; Face Recognition system. It uses OpenCV library to detect and return the no. of faces in the input image. It also returns an image with rectangles, forming a boundary on each detected face. It then uses Face_Recognition library to compare the face(in test image) with the ones present in the database, &amp; returns the names of all the known faces.
